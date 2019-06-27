@@ -1,0 +1,9 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "bestemmia",
+            "intents": [],
+            "types": []
+        }
+    }
+}
