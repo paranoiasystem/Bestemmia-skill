@@ -2,7 +2,12 @@
     "interactionModel": {
         "languageModel": {
             "invocationName": "bestemmia",
-            "intents": [],
+            "intents": [
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                }
+            ],
             "types": []
         }
     }
